@@ -1,0 +1,1 @@
+![Chinook ERD](https://raw.githubusercontent.com/iiimosley/chinookERD/master/Chinook_DB_ERD.png "Chinook ERD")
